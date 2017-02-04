@@ -6,3 +6,5 @@ A slider componeasdnt without jQuery using ES6 and Webpack
 
 ## how to run
   - npm serve
+## things to ad later
+  - handle swipe event
