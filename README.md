@@ -1,12 +1,16 @@
 # native-slider-Webpack
 A slider componeasdnt without jQuery using ES6 and Webpack 
 
+## Requierement
+ - node >= 6
+ - npm
+ 
 ## Installation
  - npm install
 
-## how to run
+## How to run
   - npm run server
   - open http://localhost:8080/
   
-## things to ad later
+## Things to add later
   - handle swipe event
